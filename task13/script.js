@@ -1,3 +1,5 @@
-var first = ("Hello world")
-prompt("де ви живете?")
-console.log("де ви живете?");
+var first;
+first = prompt("де ви живете?")
+alert('ви живете у ' + first)
+console.log(first );
+document.write(first)
